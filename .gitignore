@@ -74,6 +74,8 @@ temp/
 .env
 .env.local
 .env.*.local
+__pycache__/
+*.pyc
 
 # Test coverage
 coverage/
