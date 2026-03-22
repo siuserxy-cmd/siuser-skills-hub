@@ -1,4 +1,4 @@
-# siuser小伟 小红书一键生成 Skill
+# 小红书一键生成 Skill
 
 这是一个单一用途的原创 Skill，用于一键生成小红书图文内容：
 
@@ -36,6 +36,7 @@
 ```text
 帮我做一篇关于 AI 工具选型的小红书图文，要包含标题、正文、图片文案和出图提示词
 ```
+<img width="1372" height="722" alt="image" src="https://github.com/user-attachments/assets/af898e53-a08a-40c6-9233-784bd100c212" />
 
 或者：
 
@@ -49,3 +50,5 @@
 - 流程说明见 [references/workflow.md](./references/workflow.md)
 - 风格规范见 [references/style-guide.md](./references/style-guide.md)
 - 输出示例见 [examples/example-output.md](./examples/example-output.md)
+
+
